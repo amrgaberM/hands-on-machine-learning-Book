@@ -53,7 +53,7 @@ jupyter notebook
 
 ### Part I: The Fundamentals of Machine Learning
 
-- [ ] **Chapter 1**: The Machine Learning Landscape
+- [ Done ] **Chapter 1**: The Machine Learning Landscape
   - Understanding different types of machine learning systems
   - Main challenges in machine learning projects
   - Testing and validating machine learning systems
