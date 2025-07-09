@@ -22,10 +22,7 @@ hands-on-ml-companion/
 │   ├── chapter-03/         # Classification
 │   └── ...                 # Additional chapters as I progress
 ├── datasets/               # Data files and preprocessing scripts
-├── src/                    # Reusable utility functions and modules
 ├── notes/                  # Personal study notes and insights
-├── experiments/            # Additional explorations and variations
-├── requirements.txt        # Python dependencies
 └── README.md              # Project documentation
 ```
 
